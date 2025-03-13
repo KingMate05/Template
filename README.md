@@ -1,1 +1,3 @@
-Balise de link a ajouter dans le head pour liée au app.sccs
+git add .
+git commit -m "Ajout des modifications"
+git push
